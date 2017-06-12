@@ -1,0 +1,33 @@
+h1
+{
+	margin:10px;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 25px;
+
+}
+#a
+{
+	font-size: 40px;
+	color: #14256F;
+}
+#btn
+{
+	display:block;
+	margin-top: 10px;
+}
+
+#ten,#eleven
+{
+	font-size: 30px;
+	color:#14256F;
+	margin:10px;
+}
+.form-control
+{
+	width:40%;
+}
+#div1
+{
+	display: inline;
+}
+
