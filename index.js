@@ -1,5 +1,5 @@
 //the array has answers to the questions to the Quiz
-var answers=[195,'germany','charles babbage','byte',8848,'flute','states']
+var answers=[195,'germany','Conde Koma','byte',8848,'flute','states']
 
 function submitFunction()
 {
